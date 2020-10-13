@@ -2,7 +2,7 @@
 
 ### Stage 1
 
-* [Landmark + Face Mask notebook](EDA_Cleaned.ipynb)
+* [Landmark + Face Mask notebook](EDA-Cleaned.ipynb)
 * [FAC notebook](attrib-clf-multilabel-cleaned.ipynb)
 
 <img src="static\stage1.png" width="500">
