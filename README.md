@@ -13,3 +13,8 @@
 * [word embedding notebook](attrib-clf-multilabel-cleaned.ipynb)
 
 <img src="static\reconstruction2.png" width="500">
+
+
+### Mid-term paper
+
+* [Mid-term paper](IS470-Mid-Term-Report-Muhammad_Naufal.pdf)
