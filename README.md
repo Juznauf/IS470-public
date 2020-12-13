@@ -4,6 +4,7 @@
 
 #### Image Disentanglement
 <img src="static\stage1-2.png" width="500">
+
 ---
 
 ### Stage 2
@@ -13,12 +14,14 @@
 
 #### Recon-Net
 <img src="static\stage2-7.png" width="500">
+
 ---
 
 ### Stage 3
 
 #### Image Generation 
 <img src="static\stage3-2.png" width="500">
+
 ---
 
 
@@ -32,6 +35,7 @@
 
 ### Final paper defence 
 * [Final paper defence](IS470-submission.pdf)
+
 ---
 
 
