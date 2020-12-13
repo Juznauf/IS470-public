@@ -31,7 +31,8 @@
 ---
 
 ### Final paper 
-* [Final paper](IS470-final.pdf)
+
+* [Final paper](IS470_Term_Report_Submission_Muhammad_Naufal.pdf)
 
 ### Final paper defence 
 * [Final paper defence](IS470-submission.pdf)
