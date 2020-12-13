@@ -2,19 +2,37 @@
 
 ### Stage 1
 
-* [Landmark + Face Mask notebook](EDA-Cleaned.ipynb)
-* [FAC notebook](attrib-clf-multilabel-cleaned.ipynb)
-
-<img src="static\stage1.png" width="500">
-
+#### Image Disentanglement
+<img src="static\stage1-2.png" width="500">
+---
 
 ### Stage 2
 
-* [word embedding notebook](attrib-clf-multilabel-cleaned.ipynb)
+#### Image Reconstruction Pipeline
+<img src="static\stage2-3.png" width="500">
 
-<img src="static\reconstruction2.png" width="500">
+#### Recon-Net
+<img src="static\stage2-7.png" width="500">
+---
+
+### Stage 3
+
+#### Image Generation 
+<img src="static\stage3-2.png" width="500">
+---
 
 
 ### Mid-term paper
-
 * [Mid-term paper](IS470-Mid-Term-Report-Muhammad_Naufal.pdf)
+
+---
+
+### Final paper 
+* [Final paper](IS470-final.pdf)
+
+### Final paper defence 
+* [Final paper defence](IS470-submission.pdf)
+---
+
+
+
